@@ -1,0 +1,6 @@
+build/
+*.apk
+*.idsig
+*.dex
+*.jar
+screenshot*.png
